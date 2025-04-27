@@ -450,7 +450,7 @@ wheels = [
 ]
 
 [[package]]
-name = "streamit-sample"
+name = "streamlit-sample"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [

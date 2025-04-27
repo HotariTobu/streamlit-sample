@@ -50,7 +50,7 @@ with st.spinner("Wait for it...", show_time=True):
 
 def main():
     st.write("This is the main function")
-    print("Hello from streamit-sample!")
+    print("Hello from streamlit-sample!")
 
 
 if __name__ == "__main__":
