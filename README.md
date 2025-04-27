@@ -9,5 +9,5 @@ This project is a playground for [Streamlit](https://streamlit.io/).
 ## Usage
 
 ```sh
-uv run streamlit run *.py
+uv run streamlit run scripts/*.py
 ```
